@@ -1,4 +1,4 @@
-# Text Classification- Evaluating Three Classification Algorithms Across Two Distinct Datasets: A Comparative Analysis
+# Text Classification
 
 This project was conducted as part of the Data Mining course within the first year of the Graduate Diploma in Computer and Information Science. Python programming language was utilised for the implementation.
 
